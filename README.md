@@ -20,7 +20,7 @@ This is a libValkka extension module, so you need libValkka installed.  Please s
 
 ### 3. Install Nvidia video SDK
 
-The video sdk source code directory must be placed into (ext/)[ext/]  by the name ``video-sdk-samples``.
+The video sdk source code directory must be placed into [ext/](ext/)  by the name ``video-sdk-samples``.
 
 You can get the video sdk source code by registering with NVidia [here](https://developer.nvidia.com/nvidia-video-codec-Sdk).  There is also a public version available [here](https://github.com/NVIDIA/video-sdk-samples.git).  You can run [ext/download_nvidia.bash](ext/download_nvidia.bash) to download it to the correct place.
 
