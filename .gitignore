@@ -1,0 +1,6 @@
+/build_*/
+/ext/video-sdk-samples/
+/scrap/
+/python/valkka/nv/*.so*
+__pycache__
+set_me.bash
